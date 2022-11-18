@@ -1,5 +1,7 @@
 <div align="center">
+    <kbd>
     <img src="res/images/Profile.png" style="border-radius:100px;" align="center">
+    <kbd>
     <br><br>
     <h1><b>EliasXabs
     <br>

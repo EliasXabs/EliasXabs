@@ -6,8 +6,7 @@
     <a href="https://www.instagram.com/eliasxabs/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" width="100" style="border-radius:5px;"/>
     </a>
-    <a href="https://www.linkedin.com/in/elias-abou-samra-ba2422223">
-  <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=EliasXabs@gmail.com" style="border-radius:5px;" width="70vw"/></a>
+  <a href="mailto:Eliasxabs@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=EliasXabs@gmail.com" style="border-radius:5px;" width="70vw"/></a>
     </a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=EliasXabs&style=flat-square&color=blue" style="border-radius:5px;"/>

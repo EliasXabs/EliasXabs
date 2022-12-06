@@ -91,4 +91,4 @@
 <div align="center">
 <br>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/EliasXabs?theme=unicorn&font=Wallpoet&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/EliasXabs?theme=dark&ext=activity)

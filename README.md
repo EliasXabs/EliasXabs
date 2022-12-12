@@ -83,7 +83,6 @@
 <br>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=EliasXabs&theme=dark&background=000000)">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasXabs&layout=compact&theme=dark">
 </div>
 
 <br>

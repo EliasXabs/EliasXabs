@@ -20,7 +20,6 @@
 # About me
 
 - Second year CS student 
-- Learning mobile dev
 - FullStack wannabe 
 
 

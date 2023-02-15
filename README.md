@@ -36,6 +36,7 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 <img src="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=PHP&logoColor=black">
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-%23000000.svg?style=for-the-badge&logo=TypeScript&logoColor=blue">
 <br>
 <br>
 
@@ -72,6 +73,7 @@
 <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green">
 <img src="https://img.shields.io/badge/Linux-268BEE?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/bash-%49a816.svg?style=for-the-badge&logo=bash&logoColor=black">
 
 <br>
 <hr>

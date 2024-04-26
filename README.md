@@ -19,7 +19,7 @@
 
 # About me
 
-- Second year CS student 
+- Senior CS student 
 - FullStack wannabe 
 
 
@@ -52,6 +52,8 @@
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
 <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white">
 <img src="https://img.shields.io/badge/Angular-red.svg?style=for-the-badge&logo=Angular&logoColor=white">
+<img src="https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 <br>
 <br>
 
@@ -74,6 +76,7 @@
 <img src="https://img.shields.io/badge/Linux-268BEE?style=for-the-badge&logo=linux&logoColor=white">
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/bash-%49a816.svg?style=for-the-badge&logo=bash&logoColor=black">
+<img src="https://img.shields.io/badge/nodejs-%49a816.svg?style=for-the-badge&logo=node&logoColor=black">
 
 <br>
 <hr>

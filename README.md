@@ -20,7 +20,7 @@
 # About me
 
 - Senior CS student 
-- FullStack wannabe 
+- FullStack ~~wannabe~~ Developer (mostly backend) 
 
 
 <br><br>
@@ -42,23 +42,26 @@
 
 ### Database :
 <br>
+<img src="https://img.shields.io/badge/firebase-%23000.svg?style=for-the-badge&logo=firebase&logoColor=lime">
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/pgsql-%23000.svg?style=for-the-badge&logo=pgsql&logoColor=lime">
 <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 <br>
 <br>
  
-### Frameworks :
+### Frameworks and Libraries:
 <br>
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> 
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/react expo-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/react Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/ExpressJs-%2320232a.svg?style=for-the-badge&logo=Express&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white">
+<img src="https://img.shields.io/badge/Nextjs-%2320232a.svg?style=for-the-badge&logo=Nextjs&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/Angular-red.svg?style=for-the-badge&logo=Angular&logoColor=white">
 <img src="https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
-<br>
-<br>
-
-### Libraries :
-<br>
+<img src="https://img.shields.io/badge/TypeORM-%2320232a.svg?style=for-the-badge&logo=TypeORM&logoColor=%2361DAFB">
+<img src="https://img.shields.io/badge/Sequelize-%2320232a.svg?style=for-the-badge&logo=Sequelize&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/opencv-%23000.svg?style=for-the-badge&logo=opencv&logoColor=lime">
 <br>

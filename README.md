@@ -59,7 +59,6 @@
 <img src="https://img.shields.io/badge/Nextjs-%2320232a.svg?style=for-the-badge&logo=Nextjs&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/Angular-red.svg?style=for-the-badge&logo=Angular&logoColor=white">
 <img src="https://img.shields.io/badge/laravel-%2320232a.svg?style=for-the-badge&logo=laravel&logoColor=%2361DAFB">
-<img src="https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/TypeORM-%2320232a.svg?style=for-the-badge&logo=TypeORM&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/Sequelize-%2320232a.svg?style=for-the-badge&logo=Sequelize&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
